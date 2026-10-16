@@ -1,4 +1,4 @@
-function Hello1(){
+function Hello2(){
     
 }
-Hello1();
+Hello2();
