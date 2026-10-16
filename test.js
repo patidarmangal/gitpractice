@@ -1,3 +1,4 @@
-function hello(){
+function Hello(){
     
 }
+Hello();
