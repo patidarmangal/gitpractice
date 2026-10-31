@@ -1,4 +1,8 @@
 function Hello2(){
-    
+    console.log("hello");
 }
-Hello2();
+Hello3();
+
+function secondFunction(){
+
+}
